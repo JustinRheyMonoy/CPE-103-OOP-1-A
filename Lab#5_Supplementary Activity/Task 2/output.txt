@@ -1,0 +1,4 @@
+Velocity: 11.0 m/s
+Angle: 45.0 degrees
+Range: 12.35 meters
+Max Height: 3.09 meters
